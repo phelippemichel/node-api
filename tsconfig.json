@@ -4,9 +4,10 @@
         "module": "commonjs",
         "target": "ES2022",
         "allowJs": true,
-        "esModuleInterop": true
+        "esModuleInterop": true,
+        "strictNullChecks": true
     },
     "exclude": [
         "node_modules"
     ]
-}
+}   
