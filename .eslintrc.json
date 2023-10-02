@@ -6,6 +6,8 @@
     "rules": {
         "no-tabs": "off",
         "@typescript-eslint/indent": ["error", 2],
-        "@typescript-eslint/strict-boolean-expressions": "off"
+        "@typescript-eslint/strict-boolean-expressions": "off",
+        "@typescript-eslint/consistent-type-imports": "off",
+        "@typescript-eslint/prefer-nullish-coalescing": ["warn"]
     }
 }
