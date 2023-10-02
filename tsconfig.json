@@ -6,8 +6,5 @@
         "allowJs": true,
         "esModuleInterop": true,
         "strictNullChecks": true
-    },
-    "exclude": [
-        "node_modules"
-    ]
-}   
+    }
+}
